@@ -1,8 +1,11 @@
-# React + Vite
+# Digital Business card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my first project using React and Vite. This simple page is a digital business card built with 3 components: Header, Main and Footer. This project is the first solo project following the React Basics courses, by Scrimba.
 
-Currently, two official plugins are available:
+All files are using React syntax and JSX files extension.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have tried to keep my code dry and organized in a logical file structure.
+
+It took me more time to debug Vite rather than building the project itself.
+
+Also, on a CSS standpoint, I have learned how to encode SVG into usable URL, to insert in a button (using bg-properties). 
